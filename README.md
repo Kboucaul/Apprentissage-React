@@ -5,7 +5,7 @@ L'objectif est de tenir ce challenge en 5 jours (en mode piscine)
 
 Exemple de projet :
 
-- Slider
+- Un Slider
 - Un pomodoro
 - Une app de prise de note
 - ...
